@@ -54,8 +54,6 @@ These counseling conversations are **large-scale, unstructured, and emotionally 
 
 
 ## Methodology
-
-## Screenshots  
 ![Methodology Overview](/src/img/01.png)
 
 1. **Preprocessing**  
