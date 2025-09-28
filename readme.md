@@ -1,4 +1,4 @@
-# Topic Modelling of Mental Health Counseling Conversations using BERTopicr
+# Topic Modelling of Mental Health Counseling Conversations using BERTopic
 
 ## Collaborators
 - [Dr. Agus Budi Raharjo, S.Kom, M.Kom., Ph.D.](https://www.its.ac.id/informatika/id/profil-agus-budi-raharjo/)  
