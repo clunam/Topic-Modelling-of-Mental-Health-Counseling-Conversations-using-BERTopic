@@ -100,6 +100,3 @@ BERTopic’s semantically coherent topics can guide platform providers in tailor
 - Verified Market Research, 2024  
 - Grootendorst, 2022  
 - Ma et al., 2025  
-
-
-  # tambahin baris kosong biar ada perubahan
